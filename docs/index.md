@@ -22,7 +22,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Experience in Python, SQL, HTML, CSS, and Javascript programing languages
 - Experience in Microsoft Excel, Tableau, MySQL Workbench, and VMware Workstation
 - Experience in Github, Microsoft Teams, Visual Studio Code, Zoom, and Discord
-- Experience in Jupiter Notebook, Altair, Pandas, and some machine learning experience
+- Experience in Jupyter Notebook, Altair, Pandas, and some machine learning experience
 - Experience in Algorithmic Design and Efficiency 
 - Experience in User Interface Design and Evaulation
 
