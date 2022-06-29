@@ -3,7 +3,7 @@ layout: cv
 title: Daisy Nadauld's Resume
 ---
 # Daisy Nadauld
-(801)-866-7228
+## (801)-866-7228
 Software Engineering student at Brigham Young University - Idaho
 
 <div id="webaddress">
