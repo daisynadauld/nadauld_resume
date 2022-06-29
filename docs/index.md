@@ -16,14 +16,17 @@ Software Engineering student at Brigham Young University - Idaho
 
 ## Education
 
-`2019-2023`
+`September 2019 - July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.5 GPA
-- Experience in Python, SQL, HTML, CSS, and Javascript  programing languages
-- Experience in Microsoft Excel, Microsoft Teams, and Tableau
+- Experience in Python, SQL, HTML, CSS, and Javascript programing languages
+- Experience in Microsoft Excel, Tableau, MySQL Workbench, and VMware Workstation
+- Experience in Github, Microsoft Teams, Visual Studio Code, Zoom, and Discord
 - Experience in Jupiter Notebook, Altair, Pandas, and some machine learning experience
-- Zoom experience 
+- Experience in Algorithmic Design and Efficiency 
+- Experience in User Interface Design and Evaulation
+
+
 
 ## Work Experience
 
