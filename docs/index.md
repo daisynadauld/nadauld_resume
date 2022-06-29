@@ -3,11 +3,11 @@ layout: cv
 title: Daisy Nadauld's Resume
 ---
 # Daisy Nadauld
-## (801)-866-7228
 Software Engineering student at Brigham Young University - Idaho
 
 <div id="webaddress">
 <a href="daisykunzler@gmail.com">daisykunzler@gmail.com</a>
+| <a href="801-866-7228">(801)-866-7228</a>
 | <a href="https://www.linkedin.com/in/daisy-kunzler/">LinkedIn</a>
 | <a href="https://github.com/daisynadauld">GitHub</a>
 | <a href="https://www.byui.edu/catalog#/programs/4kNfm-2oZ?bc=true&bcCurrent=Software%20Engineering&bcGroup=Department%20of%20Computer%20Science%20and%20Electrical%20Engineering&bcItemType=programs">Software Engineering Program</a>
