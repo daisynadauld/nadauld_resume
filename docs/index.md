@@ -25,7 +25,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Experience in User Interface Design and Evaulation
 - Experience with Microsoft Excel, Tableau, MySQL Workbench, and VMware Workstation
 - Experience with Github, Microsoft Teams, Visual Studio Code, Zoom, and Discord
-- Experience with Jupyter Notebook, Altair, Pandas, and some machine learning experience
+- Experience with Jupyter Notebook, Altair, and Pandas
 
 
 
