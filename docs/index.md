@@ -20,12 +20,13 @@ Software Engineering student at Brigham Young University - Idaho
 `September 2019 - July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Experience in Python, SQL, HTML, CSS, and Javascript programing languages
-- Experience in Microsoft Excel, Tableau, MySQL Workbench, and VMware Workstation
-- Experience in Github, Microsoft Teams, Visual Studio Code, Zoom, and Discord
-- Experience in Jupyter Notebook, Altair, Pandas, and some machine learning experience
-- Experience in Algorithmic Design and Efficiency 
+- Experience in Python, C++, Java, MySQL, HTML, CSS, and Javascript
+- Experience in System and Algorithmic Design and Efficiency 
 - Experience in User Interface Design and Evaulation
+- Experience with Microsoft Excel, Tableau, MySQL Workbench, and VMware Workstation
+- Experience with Github, Microsoft Teams, Visual Studio Code, Zoom, and Discord
+- Experience with Jupyter Notebook, Altair, Pandas, and some machine learning experience
+
 
 
 
