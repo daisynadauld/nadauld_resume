@@ -1,7 +1,4 @@
----
-layout: cv
-title: Daisy Nadauld's Resume
----
+
 # Daisy Nadauld
 Software Engineering student at Brigham Young University - Idaho
 
