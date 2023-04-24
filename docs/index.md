@@ -15,6 +15,30 @@ Software Engineering student at Brigham Young University - Idaho
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
+## Relevant Experience
+`January 2023 - Current`
+__Idaho National Laboratory__, Modeling and Simulation Intern, Idaho Falls, ID
+
+Projects:
+- IGCAPT
+  - The Grid Data Total Availability Framework (GDTAF) is a DOE data framework for defining smart-grid power and communication assets. Idaho National Laboratory's simulation product, IGCAPT, assesses communication bandwidth utilization on smart-grid communications networks using Java. My team was assigned to make IGCAPT GDTAF compliant by refactoring the data model and code to support analysis through the web-based interface. Specifically, I worked on decoupling the dependencies between Java Universal Network/Graph Framework (Jung) and Open Street Map JMapviewer, and extracting IGCAPT GUI action events into separate controller classes to subscribe to a Model View Controller pattern.
+- DICE
+  - DICE is an Air Force training simulation that uses an entity component system design pattern written in C++. I aided in the developent of a PK system, the aim of which is to track shooter-target engagement events and calculate a real-time probability-of-kill value. This project exposed me to the Entity Component System design pattern, C++ 11/14 standards, and cross-platform development. It also gave me experience using shared pointers, dynamic pointer casts, and standard template library containers.
+- NAERM
+  - NAERM is a large project that INL collaborates on with other labs, it's aim is to aid in planning and routing of fiber optics. I was able to work on a few parts of this project. One part was on a Pyhton based tool that validates that the data from incoming .gpkg files is correctly formatted for use by the other tools in its group. I added the ability for this tool to also validate .csv and .shp files. I also worked on creating a CI/CD pipeline in GitLab for the rest of the python tools in that same group. I created a .yml file which utilizes an ubuntu container and python 3.10 to run pylint on each tool, and also runs automatic tests of the tools with pre-defined test data.
+
+Skills Gained 
+- Collaboration on large projects.
+- More in depth experience with Java.
+- Refactoring experience.
+- Understanding of Model View Controller patterns.
+- More in depth experience with C++.
+- Understanding of Entity Component Systems.
+- Understanding of Docker Containers and Virtual Environments.
+- Experience with GitLab and CI/CD.
+
+
 ## Education
 
 `September 2019 - July 2023`
@@ -27,10 +51,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Experience with Github, Microsoft Teams, Visual Studio Code, Zoom, and Discord
 - Experience with Jupyter Notebook, Altair, and Pandas
 
-
-
-
-## Work Experience
+## Other Work Experience
 
 `October 2019 - April 2021`
 __United Parcel Service__, Package Handler, Rexburg, ID
@@ -46,42 +67,6 @@ Skills Gained:
 - Time management and spatial awareness 
 - Organization and memorization  
 - Deadline setting and meeting
-
-`September 2018 - July 2019`
-__Recreation Outlet__, Sales Associate, Ogden, UT
-
-Main responsibilities:
-- Creating a positive environment & customer experience 
-- Educating customers about the best outdoor gear for specific activities and price ranges 
-- Front desk services and register 
-- Cleaned and maintained facilities 
-- Learned continually about outdoor products and activities through real-world experience and clinics.
-
-Skills Gained:
-- Customer service and communication 
-- Sales and marketing 
-- Conflict management 
-- Positive attitude 
-- Outdoor product knowledge
-
-`June 2013 - August 2018`
-__Salmon River High Adventure Base__, Team Lead/River Guide, North Fork, ID
-
-Main Responsibilities:
-- Ensure the safety of guests (on paddle rafts and in hardshell kayaks) 
-- Teach, train, and manage members of staff as well as guests 
-- Create fun and engaging conversation amongst guests during their trip 
-- Teach guests about the river 
-- Ensure sure guest's needs are met and that they feel comfortable 
-- Maintain swiftwater and first aid safety skills 
-- Work to creatively solve problems with a team 
-
-Skills Gained 
-- Interpersonal and Intrapersonal communication 
-- Maintaining focus and control in high-stress situations 
-- Positive client experience creation 
-- Team Management
-
 
 
 <!-- ### Footer
